@@ -1,5 +1,5 @@
 # gitee-introduction
-Introducing Gitee Personal Profile through GitHub
+This repository showcases my journey of learning computer science through Gitee on GitHub.
 
 URL: https://gitee.com/forcifer
 
@@ -15,4 +15,4 @@ A real-time synchronized repository within the Obsidian database containing MD, 
 ## Data Structure and Algorithm
 ## Operating System
 ## Latex writing
-## Manual for Applied AI
+## Manual for Daily Applied AI
